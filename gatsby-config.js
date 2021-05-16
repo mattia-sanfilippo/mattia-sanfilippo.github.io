@@ -2,7 +2,6 @@
 const path = require('path');
 
 module.exports = {
-  pathPrefix: '/mattiasanfilippo-dev',
   siteMetadata: {
     title: 'Mattia Sanfilippo - Software Engineer',
     description: 'Software Engineer based in Italy. I build websites and apps.',
