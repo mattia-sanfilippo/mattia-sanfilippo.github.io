@@ -13,3 +13,11 @@
   website: https://ghost.org/
   location: San Francisco
   profile_image: img/alex-knight-326705-unsplash.jpg
+- id: Mattia Sanfilippo
+  avatar: avatars/mattia-sanfilippo.jpg
+  bio: Software Engineer based in Italy. I build websites and apps!
+  twitter: imattolo
+  facebook: mattiasanfilippo
+  website: https://mattiasanfilippo.dev
+  location: Turin, Italy
+  profile_image: img/alex-knight-326705-unsplash.jpg
