@@ -50,7 +50,7 @@ export interface WebsiteConfig {
 
 const config: WebsiteConfig = {
   title: 'Mattia Sanfilippo',
-  description: '',
+  description: 'Software Engineer based in Italy. I build websites and apps!',
   coverImage: 'img/blog-cover.png',
   logo: 'img/mattia_sanfilippo_logo.png',
   lang: 'en',
@@ -58,11 +58,11 @@ const config: WebsiteConfig = {
   facebook: 'https://www.facebook.com/mattiasanfilippo',
   twitter: 'https://twitter.com/imattolo',
   showSubscribe: true,
-  mailchimpAction: 'https://twitter.us19.list-manage.com/subscribe/post?u=a89b6987ac248c81b0b7f3a0f&amp;id=7d777b7d75',
-  mailchimpName: 'b_a89b6987ac248c81b0b7f3a0f_7d777b7d75',
+  mailchimpAction: 'https://dev.us6.list-manage.com/subscribe/post?u=7df7ed239e19c729326ac9850&amp;id=019784dbac',
+  mailchimpName: 'b_7df7ed239e19c729326ac9850_019784dbac',
   mailchimpEmailFieldName: 'MERGE0',
   googleSiteVerification: 'GoogleCode',
-  footer: 'is based on Gatsby Casper',
+  footer: 'is based on Gatsby',
 };
 
 export default config;
