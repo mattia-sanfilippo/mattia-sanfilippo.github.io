@@ -1,3 +1,4 @@
+/* eslint-disable react/jsx-child-element-spacing */
 import React from 'react';
 import { Helmet } from 'react-helmet';
 
@@ -56,43 +57,33 @@ const About: React.FC = () => (
 
             <PostFullContent className="post-full-content">
               <div className="post-content">
-                <h5>
-                  A starter template for Gatsby <br /> GitHub: <a href="https://github.com/scttcper/gatsby-casper">scttcper/gatsby-casper</a>
-                </h5>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc commodo finibus leo,
-                  non tempus magna vehicula ac. Maecenas mollis ante finibus pharetra imperdiet.
-                  Maecenas in aliquam purus. Nam et massa a nulla fermentum dapibus sit amet in
-                  neque. Ut ipsum ipsum, rhoncus a sodales pellentesque, interdum a elit. Nullam
-                  aliquam tellus nibh, eget laoreet dui aliquet non. Vestibulum malesuada ante at
-                  diam tempus, ac interdum risus scelerisque. Sed ipsum neque, vulputate porta diam
-                  eget, consequat blandit nulla. Integer volutpat velit vitae purus lacinia aliquam.
-                  Integer bibendum ipsum vitae magna pulvinar, nec vehicula dolor vulputate. Nulla
-                  eu massa id orci placerat finibus vel sit amet eros. Vestibulum quis consequat
-                  massa. Sed sagittis sollicitudin massa at commodo. Praesent diam nisi, imperdiet
-                  posuere eleifend nec, blandit ac massa.
+                  Hello!<br />My name is Mattia Sanfilippo and this is my developer blog.<br />
+                  I&rsquo;m from Turin, Italy, but that doesn&rsquo;t matter because now thanks to the online communities it&rsquo;s easy to be in touch with people from all over the world.<br />
+                  I&rsquo;ll tell you a little about my career.<br />I started immediately after graduating in computer science to work for a consulting company in the automotive sector.<br />
+                  I have been a fullstack developer for a long time, and I have been involved in both functional analysis and actual development, but also the deployment on our customers&rsquo; servers!<br />
                 </p>
+
                 <p>
-                  Vestibulum semper pretium ipsum nec congue. Ut ac eros nisi. Donec leo sem,
-                  aliquam mollis sapien ultrices, dapibus congue diam. Proin viverra dapibus
-                  blandit. Ut mauris tellus, tristique id felis vel, venenatis vestibulum nunc. Nam
-                  molestie pulvinar nibh, eget egestas augue. Maecenas tellus arcu, mattis ut ipsum
-                  non, sollicitudin convallis nunc. Donec nec neque tristique, aliquet lacus id,
-                  laoreet nunc. Cras dapibus nisi nulla, ullamcorper faucibus neque suscipit ac.
-                  Donec eget orci venenatis justo lobortis volutpat. Proin vel placerat nisl.
-                  Integer arcu nunc, sodales eu fringilla non, aliquam non diam. Cras placerat,
-                  massa et faucibus pretium, ante elit tincidunt tellus, tristique ultricies velit
-                  quam et massa.
+                  In the last year in that company I have also been able to develop an entire app for Android devices, managing both the mobile and backend part.<br />
+                  On my own, I wanted to follow a nanodegree at Udacity.<br />
+                  After four years, I decided I wanted to specialize in Frontend development, so I started taking courses on the most used frameworks (or libraries) such as React, Angular and Vue.js.<br />
+                  So I started taking various courses on Egghead, FrontendMasters and Coursera. I highly recommend subscribing to these e-learning platforms, especially the first two if you want to improve your skills and excel in development and soft skills.<br />
+
+                  Subsequently, after getting involved again, I wanted to take the opportunity to join the Oval team, a platform that allows you to accumulate and invest your money with caution.<br />
+                  The project interested me very much and I couldn&rsquo;t wait to get started!<br />
+
+                  There I really learned a lot, from mastering React Native to perfecting skills in JavaScript, TypeScript and functional programming in general.<br />
                 </p>
+
                 <p>
-                  In nunc lacus, dapibus vitae lacus sit amet, efficitur iaculis neque. Suspendisse
-                  ut tellus quis leo vestibulum tincidunt. Aenean nec enim ac dolor lacinia semper.
-                  Ut sed laoreet libero. Nunc elementum sollicitudin accumsan. Nunc eu augue neque.
-                  Proin a tortor nibh. Cras eu nisl ornare sapien feugiat pellentesque. Mauris
-                  dignissim vel quam eu pellentesque. Integer sit amet posuere quam, eu ullamcorper
-                  odio. Nullam a lacus tempus sapien dignissim ullamcorper. In hac habitasse platea
-                  dictumst. Proin quis massa aliquam, feugiat tortor sit amet, tincidunt urna. Donec
-                  posuere pulvinar lectus, ac semper ipsum vulputate quis.
+                  After almost a year, I was offered to join a team at H-FARM, a very large company with an unrivaled campus of innovation and culture.<br />
+                  I currently work here at H-FARM and continue to develop in JavaScript, particularly in the Frontend and mobile area with React Native.<br />
+                  How will my story continue? I&rsquo;ll find out just by trying to improve myself and my skills, experimenting and learning from mistakes day by day.<br />
+
+                  Thanks for coming to read this far. I hope I haven&rsquo;t annoyed you too much and have given you enough information about my career.<br />
+
+                  See you soon!<br />
                 </p>
               </div>
             </PostFullContent>
