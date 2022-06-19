@@ -3,7 +3,7 @@
   "description": "My developer website",
   "version": "0.0.1",
   "private": true,
-  "author": "Mattia Sanfilippo <info@mattiasanfilippo.com>, Scott Cooper <scttcper@gmail.com>",
+  "author": "Mattia Sanfilippo <me@mattiasanfilippo.dev>, Scott Cooper <scttcper@gmail.com>",
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
