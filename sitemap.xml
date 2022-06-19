@@ -7,4 +7,5 @@
 <url> <loc>https://mattiasanfilippo.dev/author/another-author/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattiasanfilippo.dev/author/mattia-sanfilippo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://mattiasanfilippo.dev/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://mattiasanfilippo.dev/contact/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
