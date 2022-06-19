@@ -8,7 +8,7 @@ date: '2021-05-20T22:43:37.121Z'
 draft: false
 ---
 
-Hello, fellow reader!
+Hello, reader!
 
 This is my first post for my developer blog.
 
@@ -21,4 +21,5 @@ Feel free to [tweet me](https://twitter.com/imattolo), send me an [email](mailto
 Thanks for the time spent reading.
 
 See you soon!
+
 Mattia
